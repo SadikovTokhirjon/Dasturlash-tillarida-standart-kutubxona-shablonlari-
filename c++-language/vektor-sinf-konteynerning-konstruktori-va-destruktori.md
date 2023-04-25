@@ -79,11 +79,9 @@ i+=n, i+n, i-=n, i-n, i1-i2, i\[n], i1\<i2, i1<=i2, i1>i2, i1>=i2
 
 Shuningdek, STLda teskari iteratorlar (reverse iterators) qo‘llaniladi. Ketma-ketlikni teskari yo‘nalishda o‘tuvchi ikki yo‘nalishli yoki ixtiyoriy ruxsatga ega bo‘lgan iteratorlar teskari iteratoralar bo‘lishi mumkin.
 
-Xotirani taqsimlovchilar, predikatlar va
+Xotirani taqsimlovchilar, predikatlar va solishtirish funksiyalari
 
-solishtirish funksiyalari
-
-Konteynerlarga, algoritmlarga va STLdagi iteratorlarga qo‘shimcha bir nechta standart komponentalar xam qo‘llaniladi. Ulardan asoslari esa xotira taqsimlovchilar, predikatlar,va solishtirish funksiyalaridir.
+&#x20;Konteynerlarga, algoritmlarga va STLdagi iteratorlarga qo‘shimcha bir nechta standart komponentalar xam qo‘llaniladi. Ulardan asoslari esa xotira taqsimlovchilar, predikatlar,va solishtirish funksiyalaridir.
 
 Xar bir konteynerda uning uchun aniqlangan va konteyner uchun xotirani belgilash jarayonini boshqaradigan xotira taqsimlovchisi (allocator) mavjud.
 
